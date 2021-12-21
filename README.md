@@ -21,8 +21,8 @@ I also love music (I play piano) and video editing.\
 \
 If you are interested, please subscribe to my GitHub page and YouTube channel! I will be pleased 🙂\
 \
-🟦 VKontakte: https://vk.com/NobootRecord\
-🟪 Discord: NobootRecord#2297\
-🟥 YouTube: https://tinyurl.com/NobootRecordYT\
+🟦 VKontakte: https://vk.com/NobootRecord \
+🟪 Discord: NobootRecord#2297 \
+🟥 YouTube: https://tinyurl.com/NobootRecordYT \
 \
 That's all for now. Have a nice day!
