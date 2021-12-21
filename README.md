@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ivan Movchan, also known as NobootRecord. 14 years old. Russian 🇷🇺 \
+My name is Ivan Movchan, also known as NobootRecord. 14 years old. Russian :ru: \
 I love coding random fun stuff using flat assembler, C/C++, Pascal, JavaScript/HTML and other programming languages.\
 I also love music (I play piano) and video editing.\
 \
