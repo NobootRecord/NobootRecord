@@ -15,14 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ivan Movchan, also known as NobootRecord. 14 years old. Russian :ru: \
+My name is Ivan Movchan, also known as NobootRecord. 15 years old. Russia, St. Petersburg :ru: \
 I love coding random fun stuff using flat assembler, C/C++, Pascal, JavaScript/HTML and other programming languages.\
 I also love music (I play piano) and video editing.\
 \
-If you are interested, please subscribe to my GitHub page and YouTube channel! I will be pleased 🙂\
-\
-🟦 VKontakte: https://vk.com/NobootRecord \
-🟪 Discord: NobootRecord#2297 \
-🟥 YouTube: https://tinyurl.com/NobootRecordYT \
-\
-That's all for now. Have a nice day!
+That's all for now. Have a nice day!\
