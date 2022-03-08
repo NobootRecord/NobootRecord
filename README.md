@@ -19,4 +19,4 @@ My name is Ivan Movchan, also known as NobootRecord. 15 years old. Russia, St. P
 I love coding random fun stuff using flat assembler, C/C++, Pascal, JavaScript/HTML and other programming languages.\
 I also love music (I play piano) and video editing.\
 \
-That's all for now. Have a nice day!\
+That's all for now. Have a nice day!
