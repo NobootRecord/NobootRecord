@@ -6,4 +6,6 @@ Enjoy discovering my wonderful world of shitcode :flushed::stuck_out_tongue:
 My other media resources:\
 [VKontakte page](https://vk.com/id557789540)\
 [YouTube channel](https://youtube.com/NobootRecord)\
+[Telegram](https://t.me/NobootRecord)\
+[Telegram channel](https://t.me/nbrtgchannel)\
 [TikTok](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
