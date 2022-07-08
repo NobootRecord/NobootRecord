@@ -1,11 +1,21 @@
-### Hey there! :wave:
-My name is Ivan Movchan, and I am also known as NobootRecord. I live in Russia (St. Petersburg). 15 years old (birthday: February, 18), computer genius since 2017.\
-Programming random stuff __(mostly system tools and joke programs)__ in Assembly (FASM), C/C++, JavaScript, HTML+CSS (for website developing), ~Delphi/Object Pascal and Visual Basic~. \
-Enjoy discovering my wonderful world of shitcode :flushed::stuck_out_tongue: 
+### Hello! :wave:
+\
+About me:
 
-My other media resources:\
-[VKontakte page](https://vk.com/id557789540)\
-[YouTube channel](https://youtube.com/NobootRecord)\
-[Telegram](https://t.me/NobootRecord)\
-[Telegram channel](https://t.me/nbrtgchannel)\
-[TikTok](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* Name: Ivan Movchan
+* Nickname: NobootRecord
+* Age: 15 (birthday: February, 18)
+* Location: Russia, St. Petersburg
+* Interested in: computers, programming, Linux, music, photography, video editing, math and other stuff
+
+------------
+
+### Привет! :wave: (то же самое, но на русском, лол)
+\
+Коротко о себе:
+
+* Имя: Иван Мовчан
+* ~Псевдоним~ Ник: NobootRecord
+* Возраст: 15 (день рождения: 18 февраля)
+* Страна, город: Россия, Санкт-Петербург
+* Интересуюсь: компьютерами, программированием, Linux, музыкой, фотографией, видеомонтажом, математикой и прочей хренью
