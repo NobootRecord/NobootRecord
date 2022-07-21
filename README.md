@@ -1,6 +1,4 @@
-Имя: Иван Мовчан\
-Никнейм: NobootRecord\
-Возраст: 15 лет\
-Интересуюсь компьютерами, программированием, Linux, музыкой, любительской фотографией, иностранными языками
+# :wave: Hello, I am NobootRecord
 
-По поводу аватарки: я аниме особо не смотрю, а аватарки ставлю чисто по фану, почему бы и нет
+Software engineer, experimentator and Arch Linux fan, I love coding random stuff like system utilities, games, editors and mostly joke programs.\
+You can contact me at Discord: *NobootRecord#2297*
